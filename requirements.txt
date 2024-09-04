@@ -1,0 +1,6 @@
+coverage~=7.6.0
+fastapi~=0.111.1
+SQLAlchemy~=2.0.31
+pydantic~=2.8.2
+uvicorn~=0.30.6
+APScheduler~=3.10.4
